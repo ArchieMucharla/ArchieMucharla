@@ -14,11 +14,12 @@ I love working on:
 
 ---
 
-## 🚀 Projects Worth Checking Out
+## 🚀 Projects to check out!:
 
 - [**Timely**](https://github.com/ArchieMucharla/Timely) – an intelligent scheduling assistant I built the backend for (Flask + MongoDB)
 - [**Syllabuddy**](https://github.com/ArchieMucharla/Syllabuddy) – a syllabus-parsing AI tool that extracts deadlines and automates academic planning
-- [**Sprout**](https://github.com/ArchieMucharla/Sprout) – a smart grocery + receipt analyzer app to optimize pantry spending with real-time data insights
+- [**Credit Limit Recommendation System**](https://github.com/ArchieMucharla/Sprout) – a smart grocery + receipt analyzer app to optimize pantry spending with real-time data insights
+- [**Diabetes Risk Predictor**] - 
 
 ## 📬 Let's Connect
 
