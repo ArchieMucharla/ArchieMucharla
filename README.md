@@ -8,7 +8,7 @@ I'm a developer, designer, and data scientist who loves building things that are
 ## What I love!
 
 I enjoy working on:
-- Intelligent systems that help people make better decisions (learning from historical data to proceed best). 
+- Intelligent systems that help people make better decisions (leveraging historical data in the best possible way). 
 - Thoughtful, accessible design — I started as a designer and still always approach projects with a UX/aesthetics-focused mind.
 - Finding creative ways to automate/optimize the boring, redundant tasks.
 
