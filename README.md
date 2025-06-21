@@ -1,4 +1,4 @@
-# Hi, I’m Archie! 👋  
+# Welcome! I’m Archie! 
 I'm a developer, designer, and data scientist who loves building things that are both smart and usable.
 
 🎓 I'm currently pursuing an M.S. in Computer Science at UIUC!
