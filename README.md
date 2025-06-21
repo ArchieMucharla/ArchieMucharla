@@ -5,21 +5,20 @@ I'm a developer, designer, and data scientist who loves building things that are
 
 ---
 
-## 🛠️ What I Do
+## What I love!
 
-I love working on:
-- 🧠 Intelligent systems that help people make better decisions (recommendation engines, knowledge graphs, scheduling tools).
-- 🎨 Thoughtful, accessible design — I started as a designer and still obsess over UX.
-- 🧪 Data-driven projects that answer real questions (or automate the boring stuff).
+I enjoy working on:
+- Intelligent systems that help people make better decisions (learning from historical data to proceed best). 
+- Thoughtful, accessible design — I started as a designer and still always approach projects with a UX/aesthetics-focused mind.
+- Finding creative ways to automate/optimize the boring, redundant tasks.
 
 ---
 
 ## 🚀 Projects to check out!:
 
-- [**Timely**](https://github.com/ArchieMucharla/Timely) – an intelligent scheduling assistant I built the backend for (Flask + MongoDB)
-- [**Syllabuddy**](https://github.com/ArchieMucharla/Syllabuddy) – a syllabus-parsing AI tool that extracts deadlines and automates academic planning
-- [**Credit Limit Recommendation System**](https://github.com/ArchieMucharla/Sprout) – a smart grocery + receipt analyzer app to optimize pantry spending with real-time data insights
-- [**Diabetes Risk Predictor**] - 
+- [**Timely**](https://github.com/ArchieMucharla/Timely) – an intelligent scheduling assistant I built (React + Flask + SQL, GCP)
+- [**Syllabuddy**](https://github.com/ArchieMucharla/Syllabuddy) – a syllabus-parsing AI tool that extracts deadlines and automates academic planning (Python, NLP)
+- [**Credit Limit Recommendation System**](https://github.com/ArchieMucharla/Sprout) – Real project with 30K+ (encrypted) Synchrony bank user records.
 
 ## 📬 Let's Connect
 
