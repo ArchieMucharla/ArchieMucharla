@@ -16,7 +16,7 @@ I enjoy working on:
 
 ## 🚀 Projects to check out!:
 
-- [**Timely**](https://github.com/ArchieMucharla/Timely) – an intelligent scheduling assistant I built (React + Flask + SQL, GCP)
+- [**Timely**](https://github.com/ArchieMucharla/Timely) – a dynamic timeline database to explore your interests! (React + Flask + SQL, GCP)
 - [**Syllabuddy**](https://github.com/ArchieMucharla/Syllabuddy) – a syllabus-parsing AI tool that extracts deadlines and automates academic planning (Python, NLP)
 - [**Credit Limit Recommendation System**](https://github.com/ArchieMucharla/Sprout) – Real project with 30K+ (encrypted) Synchrony bank user records.
 
