@@ -18,8 +18,8 @@ I enjoy working on:
 ## 🚀 Projects to check out!:
 
 - [**Timely**](https://github.com/ArchieMucharla/Timely) – a dynamic timeline database to explore your interests! (React + Flask + SQL, GCP)
-- [**Syllabuddy**](https://github.com/ArchieMucharla/Syllabuddy) – a syllabus-parsing AI tool that extracts deadlines and automates academic planning (Python, NLP)
-- [**Credit Limit Recommendation System**](https://github.com/ArchieMucharla/Sprout) – Machine learning project with 30K+ real (encrypted) Synchrony bank user records.
+- [**Syllabuddy**](https://github.com/ArchieMucharla/Syllabuddy) – a syllabus-parsing AI tool that extracts deadlines and automates academic planning from student syllabi (Python, NLP)
+- [**Credit Limit Recommendation System**]((https://www.youtube.com/watch?v=l9dY-Pn3Fw4)) – Machine learning project with 30K+ real (encrypted) Synchrony bank user records.
 
 ## 📬 Let's Connect
 
