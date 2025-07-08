@@ -11,7 +11,7 @@ I enjoy working on:
 - Intelligent systems that help people make better decisions (leveraging historical data in the best possible way). 
 - Thoughtful, accessible design — I always approach projects with a UX/aesthetics-focused mind. People need to ENJOY the experience of using the product!
 - Finding creative ways to automate/optimize the boring, redundant tasks.
-- Storytelling with data: EDA, visualizations, just trying everything and being a detective to find patterns in data.
+- i LOVE data: EDA, visualizations, predictive modeling. just trying everything and being rewarded with cool patterns/trends.
 
 ---
 
