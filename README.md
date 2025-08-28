@@ -1,7 +1,7 @@
 # Welcome! I’m Archana! 
 I'm a developer, designer, and data scientist who loves building things that are both smart and usable.
 
-I'm currently pursuing an M.S. in Computer Science at UIUC!
+I'm currently pursuing a Master's degree in Computer Science at UIUC!
 
 ---
 
