@@ -1,7 +1,7 @@
 # Welcome! I’m Archana! 
 I'm a developer, designer, and data scientist who loves building things that are both smart and usable.
 
-🎓 I'm currently pursuing an M.S. in Computer Science at UIUC!
+I'm currently pursuing an M.S. in Computer Science at UIUC!
 
 ---
 
@@ -21,7 +21,7 @@ I enjoy working on:
 - [**Syllabuddy**](https://youtu.be/GzYfPOZ2PMA) – a syllabus-parsing AI tool that extracts deadlines and automates academic planning from student syllabi (Python, NLP)
 - [**Credit Limit Recommendation System**](https://www.youtube.com/watch?v=l9dY-Pn3Fw4) – Machine learning project with 30K+ real (encrypted) Synchrony bank user records.
 
-## Let's Connect
+## Let's Connect!
 
 - 🌐 [Portfolio Website](#) *(coming soon!)*  
 - 💼 [LinkedIn](https://linkedin.com/in/amucharla)  
